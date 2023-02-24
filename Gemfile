@@ -83,3 +83,5 @@ group :production do
 end
 
 gem "bootstrap-sass", "~> 3.4"
+
+gem "bcrypt", "~> 3.1"
